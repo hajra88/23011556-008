@@ -1,0 +1,14 @@
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\bin\Debug\net8.0\VisualProgramming.exe
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\bin\Debug\net8.0\VisualProgramming.deps.json
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\bin\Debug\net8.0\VisualProgramming.runtimeconfig.json
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\bin\Debug\net8.0\VisualProgramming.dll
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\bin\Debug\net8.0\VisualProgramming.pdb
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.AssemblyInfoInputs.cache
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.AssemblyInfo.cs
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.csproj.CoreCompileInputs.cache
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.dll
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\refint\VisualProgramming.dll
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.pdb
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\VisualProgramming.genruntimeconfig.cache
+C:\Users\nisha\source\repos\VisualProgramming\VisualProgramming\obj\Debug\net8.0\ref\VisualProgramming.dll
